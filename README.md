@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ankita Jena</h1>
+<h1 align="center">⚡ Hi, I'm Ankita Jena ⚡</h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=UI%2FUX+Designer;MERN+Stack+Intern;React+Developer;Passionate+Web+Developer+from+India" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&color=F7E018&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;MERN+Stack+Intern;React+Developer;Passionate+Web+Developer+from+India" />
 </h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitajena2003&label=Profile%20views&color=0e75b6&style=flat" alt="ankitajena2003" /> </p>
